@@ -102,7 +102,7 @@
 
             #endregion
 
-            #region Klavyeden Tam Sayı Girşleri ve Dönüşümler
+            #region Klavyeden Tam Sayı Girişleri ve Dönüşümler
 
             //int shoesPrice, computerPrice, chairPrice, tvPrice;
             //shoesPrice = 1000;
